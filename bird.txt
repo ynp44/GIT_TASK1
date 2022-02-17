@@ -23,6 +23,8 @@ Gull
 Hawk
 Heron
 Hummingbird
+Jay
+Jay, Blue
 Lapwing
 Lark
 Lyrebird
@@ -34,7 +36,6 @@ Parrot
 Partridge
 Peafowl
 Pelican
-Pheasant
 Pigeon
 Quail
 Quelea
@@ -47,7 +48,6 @@ Starling
 Stork
 Swan
 Turkey
-Vulture
 Woodcock
 Woodpecker
 Wren
