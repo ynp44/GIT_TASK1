@@ -10,6 +10,7 @@ Lobster
 Octopus
 Salmon
 Sardine
+Shark
 Stingray
 Swallow
 Trout
